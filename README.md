@@ -32,7 +32,6 @@
 
 ### ⚙️ DevOps & Tools  
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)  
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)  
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)  
 ![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)  
 
