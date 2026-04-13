@@ -70,7 +70,7 @@ Docker • Git • GitHub
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Harshjadhav003&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshjadhav003&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshjadhav003&layout=compact&theme=radical&langs_count=8&hide_border=true)
 
 ---
 
