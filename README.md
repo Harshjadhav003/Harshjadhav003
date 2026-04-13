@@ -1,3 +1,4 @@
+
 # Hi 👋, I'm Harshvardhan Jadhav  
 
 🚀 Full Stack Developer | DevOps & System Design Enthusiast  
@@ -16,24 +17,16 @@
 ## 🛠️ Tech Stack  
 
 ### 💻 Frontend  
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)  
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)  
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)  
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)  
+HTML • CSS • JavaScript • React • Bootstrap  
 
 ### 🧩 Backend  
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)  
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)  
+Node.js • Express  
 
 ### 💾 Database  
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)  
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql)  
+MongoDB • SQL  
 
 ### ⚙️ DevOps & Tools  
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)  
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)  
-![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)  
+Docker • Git • GitHub  
 
 ---
 
@@ -45,7 +38,8 @@
 - Focus on real-world architecture  
 
 🔗 Live: https://zerodha-frontend-gilt.vercel.app/  
-🔗 Repos:  
+
+🔗 Repositories:  
 - https://github.com/Harshjadhav003/zerodha-frontend  
 - https://github.com/Harshjadhav003/zerodha-dashboard  
 - https://github.com/Harshjadhav003/zerodha-backend  
@@ -68,7 +62,7 @@
 - Real-time chat interface with backend integration  
 - Focused on user interaction and responsive UI  
 
-
+🔗 Live: https://neurachat-1-1.onrender.com/  
 🔗 Repo: https://github.com/Harshjadhav003/NeuraChat-1  
 
 ---
