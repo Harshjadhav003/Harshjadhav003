@@ -61,17 +61,16 @@ Docker • Git • GitHub
 - Full-stack AI chatbot application  
 - Real-time chat interface with backend integration  
 - Focused on user interaction and responsive UI  
-
-🔗 Live: https://neurachat-1-1.onrender.com/  
+  
 🔗 Repo: https://github.com/Harshjadhav003/NeuraChat-1  
 
 ---
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshjadhav003&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Harshjadhav003&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshjadhav003&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshjadhav003&layout=compact)
 
 ---
 
