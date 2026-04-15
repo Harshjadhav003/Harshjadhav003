@@ -81,13 +81,11 @@ https://github.com/Harshjadhav003/ZERODHA
 🔗 **Repo:** https://github.com/Harshjadhav003/NeuraChat-1
 
 ---
+## 📊 GitHub Stats  
 
-## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshjadhav003&show_icons=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshjadhav003\&show_icons=true\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshjadhav003\&layout=compact\&theme=radical)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshjadhav003&layout=compact)
 ---
 
 ## 🌐 Connect With Me
