@@ -46,7 +46,7 @@ Docker • Git • GitHub
 * 📊 Dashboard with real-time data visualization
 * 🐳 Dockerized services with modular architecture
 
-🔗 **Live:** https://zerodha-frontend-gilt.vercel.app/
+🔗 **Live:** https://zerodha-iota-azure.vercel.app/
 
 🔗 **Repositories:**
 
