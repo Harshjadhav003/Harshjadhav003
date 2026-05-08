@@ -69,7 +69,7 @@ Building scalable web applications using MERN, Redis, Socket.IO, Docker, and mod
 ### 🌐 Live Projects
 
 - 🚀 Frontend  
-  https://zerodha-frontend-gilt.vercel.app/
+  https://zerodha-iota-azure.vercel.app/
 
 - ⚙️ Backend API  
   https://docker-setup-backend-latest.onrender.com
