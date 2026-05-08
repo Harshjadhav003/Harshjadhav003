@@ -1,99 +1,166 @@
-![Profile Views](https://komarev.com/ghpvc/?username=Harshjadhav003)
+```md id="cfsqg7"
+<h1 align="center">Hi 👋, I'm Harshvardhan Jadhav</h1>
 
-# Hi 👋, I'm Harshvardhan Jadhav
+<h3 align="center">
+🚀 Full Stack Developer | Backend & Real-Time Systems Enthusiast
+</h3>
 
-🚀 **Full Stack Developer | DevOps & System Design Enthusiast**
-
----
-
-## 👨‍💻 About Me
-
-* 💻 Building scalable and responsive web applications
-* 🚀 Developed real-world full stack projects
-* 🐳 Dockerizing applications & working on container-based deployment
-* ☁️ Deployed apps on AWS, Render, and Vercel
-* 🧠 Practicing DSA in Java & strengthening OOP concepts
+<p align="center">
+Building scalable web applications using MERN, Redis, Socket.IO, Docker, and modern backend architecture.
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+# 👨‍💻 About Me
 
-### 💻 Frontend
-
-HTML • CSS • JavaScript • React • Bootstrap
-
-### 🧩 Backend
-
-Node.js • Express.js
-
-### 💾 Database
-
-MongoDB • SQL
-
-### ⚙️ DevOps & Tools
-
-Docker • Git • GitHub
+- 💻 Building scalable full-stack applications using MERN stack
+- ⚡ Exploring real-time systems with Socket.IO & Redis
+- 🐳 Dockerizing and deploying production-ready applications
+- ☁️ Deploying apps on Vercel, Render, and cloud platforms
+- 🧠 Practicing DSA in Java & improving system design concepts
+- 🚀 Interested in Backend Engineering, DevOps & Distributed Systems
 
 ---
 
-## 🚀 Featured Projects
+# 🛠️ Tech Stack
 
-### 📈 Zerodha Clone (Microservices Architecture)
+## 💻 Frontend
 
-> A full-stack trading platform built with a scalable microservices approach
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+</p>
 
-* 🔐 Authentication & trading system
-* 📊 Dashboard with real-time data visualization
-* 🐳 Dockerized services with modular architecture
+## ⚙️ Backend
 
-🔗 **Live:** https://zerodha-iota-azure.vercel.app/
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-🔗 **Repositories:**
+## 🗄️ Database & Cache
 
-🔗 **Main Repository:**  
-https://github.com/Harshjadhav003/ZERODHA  
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
+</p>
 
-📦 Microservices:
-- Backend → https://github.com/Harshjadhav003/zerodha-backend  
-- Frontend → https://github.com/Harshjadhav003/zerodha-frontend  
-- Dashboard → https://github.com/Harshjadhav003/zerodha-dashboard  
-- Docker → https://github.com/Harshjadhav003/zerodha-docker  
+## 🚀 DevOps & Tools
 
-### 🏠 Airbnb Clone
-
-> Full-stack property listing platform
-
-* CRUD operations for listings
-* Backend + database integration
-
-🔗 **Live:** https://airbin-fullstack-1-32hl.onrender.com/listings
-🔗 **Repo:** https://github.com/Harshjadhav003/AIRBIN-FULLSTACK
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,aws" />
+</p>
 
 ---
 
-### 🤖 NeuraChat (AI Chatbot)
+# 🚀 Featured Projects
 
-> Full-stack AI chatbot application
+## 📈 Zerodha Clone — Real-Time Trading Platform
 
-* Real-time chat interface
-* Backend integration & responsive UI
+> A scalable full-stack stock trading platform inspired by Zerodha Kite.
 
-🔗 **Repo:** https://github.com/Harshjadhav003/NeuraChat-1
+### 🔥 Features
+
+- 🔐 JWT Authentication
+- 📊 Real-time stock price updates
+- ⚡ Socket.IO based live trading system
+- 🚀 Redis caching for optimized performance
+- 🐳 Dockerized microservices architecture
+- 📈 Interactive trading dashboard
+- 💼 Holdings & portfolio management
+
+### 🌐 Live Projects
+
+- 🚀 Frontend  
+  https://zerodha-frontend-gilt.vercel.app/
+
+- ⚙️ Backend API  
+  https://docker-setup-backend-latest.onrender.com
+
+- 📊 Dashboard  
+  https://zerodha-dashboard-iota.vercel.app/
+
+### 🔗 Repositories
+
+- Main Repository  
+  https://github.com/Harshjadhav003/ZERODHA
+
+- Backend  
+  https://github.com/Harshjadhav003/zerodha-backend
+
+- Frontend  
+  https://github.com/Harshjadhav003/zerodha-frontend
+
+- Dashboard  
+  https://github.com/Harshjadhav003/zerodha-dashboard
+
+- Docker Setup  
+  https://github.com/Harshjadhav003/zerodha-docker
 
 ---
-## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshjadhav003&show_icons=true)
+## 🏠 Airbnb Clone
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshjadhav003&layout=compact)
+Full-stack property listing platform with authentication, CRUD operations, and backend integration.
+
+### 🔗 Links
+
+- Live  
+  https://airbin-fullstack-1-32hl.onrender.com/listings
+
+- Repository  
+  https://github.com/Harshjadhav003/AIRBIN-FULLSTACK
+
 ---
 
-## 🌐 Connect With Me
+## 🤖 NeuraChat — AI Chatbot
 
-* 💼 LinkedIn: https://linkedin.com/in/harsh-jadhav-dev
-* 💻 GitHub: https://github.com/Harshjadhav003
+AI-powered full-stack chatbot application with responsive UI and backend integration.
+
+### 🔗 Repository
+
+https://github.com/Harshjadhav003/NeuraChat-1
 
 ---
 
-⭐ **Always learning, building, and scaling 🚀**
+# 📊 GitHub Stats
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Harshjadhav003&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshjadhav003&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshjadhav003&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p>
+<a href="https://linkedin.com/in/harsh-jadhav-dev">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://github.com/Harshjadhav003">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+</a>
+</p>
+
+---
+
+# 🚀 Current Focus
+
+- ⚡ Backend Engineering
+- 🧠 System Design
+- 🐳 DevOps & Docker
+- 📈 Real-Time Architectures
+- ☁️ Cloud Deployment
+
+---
+
+<p align="center">
+⭐ Always learning, building, and scaling systems 🚀
+</p>
+```
