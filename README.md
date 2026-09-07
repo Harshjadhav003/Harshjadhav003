@@ -162,7 +162,7 @@ Currently practicing **Data Structures & Algorithms in Java** with a focus on in
 
 [View my LeetCode Profile](https://leetcode.com/u/harshvardhan_jadhav/)
 
-**DSA Progress:** 50+ problems solved and continuously improving 
+**DSA Progress:** 100+ problems solved and continuously improving 
 
 ---
 
