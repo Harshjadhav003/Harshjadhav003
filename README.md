@@ -146,7 +146,7 @@ Currently practicing **Data Structures & Algorithms in Java** with a focus on in
 
 ### Progress
 
-- **50+ LeetCode problems solved**
+- **100+ LeetCode problems solved**
 - Java
 - Arrays
 - Strings
