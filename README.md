@@ -127,7 +127,7 @@ Full-stack property listing platform with authentication, CRUD operations, and b
 https://airbin-fullstack-1-32hl.onrender.com/listings
 
 **Repository:**  
-https://github.com/Harshjadhav003/AIRBIN-FULLSTACK
+https://github.com/Harshjadhav003/AIRBNB
 
 ---
 
