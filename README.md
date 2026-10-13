@@ -14,7 +14,7 @@ Currently focused on backend engineering, system design, DevOps fundamentals, di
 - Exploring real-time architectures with Socket.IO & Redis
 - Dockerizing and deploying production-ready applications
 - Deploying applications on Vercel, Render, and cloud platforms
-- Practicing DSA in Java with **50+ problems solved**
+- Practicing DSA in Java with **100+ problems solved**
 - Building a **WhatsApp Backend** to strengthen backend engineering concepts
 - Interested in Backend Engineering, DevOps, Cloud, and scalable architectures
 
